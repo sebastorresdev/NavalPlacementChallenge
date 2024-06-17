@@ -12,11 +12,11 @@ reglas.
 
 tienes 5 barcos:
 
-- .El portaaviones es de 5 celdas
-- .El acorazado tiene 4 celdas
-- .Sumarino es de 3 celdas
-- .Cruiser es de 3 celdas
-- .El destructor es de 2 celdas
+- El portaaviones es de 5 celdas
+- El acorazado tiene 4 celdas
+- Sumarino es de 3 celdas
+- Cruiser es de 3 celdas
+- El destructor es de 2 celdas
 
 En esta etapa, debes organizarlos todos en el campo de juego.
 
@@ -25,15 +25,4 @@ En esta etapa, debes organizarlos todos en el campo de juego.
 3.Agregue nuevas naves a un campo de juego y genere de la misma manera que en la etapa anterior.
 4.Si el usuario ha introducido las coordinadas de tal manera que la eslora del barco creado no coincide con la longitud esperada, eso debe
   considerarse una entrada incorrecta. Además, las reglas del juego establecen que los barcos no pueden estar adyacentes entre sí. En
-  ambos casos, repórtelo con un mensaje que contenga una palabra 'error'
-
-
-
-
-## Instalación
-
-Instrucciones para instalar el proyecto. Puede incluir comandos para clonar el repositorio y cualquier otro paso necesario.
-
-```bash
-git clone https://github.com/tu-usuario/tu-proyecto.git
-```
+  ambos casos, repórtelo con un mensaje que contenga una palabra 'error'.
