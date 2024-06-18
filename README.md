@@ -1,28 +1,35 @@
 ﻿# Nombre del Proyecto
 
-Descripción breve sobre qué hace el proyecto y su propósito.
+Breve descripción sobre qué hace el proyecto y su propósito.
 
 ## Descripción
 
-Ahora que hemos descubierto las reglas del juego, !continuemos colocando las naves y dibujandolas en nuestro campo
-de juego! El objetivo de esta etapa es colocar todos los barcos en el campo de juego de acuerdo con las 
-reglas.
+Este proyecto se enfoca en colocar estratégicamente barcos en un campo de juego según las reglas establecidas del juego.
 
 ### Objetivos
 
-tienes 5 barcos:
+El objetivo de esta etapa es organizar todos los barcos en el campo de juego de acuerdo con las siguientes reglas:
 
-- El portaaviones es de 5 celdas
-- El acorazado tiene 4 celdas
-- Sumarino es de 3 celdas
-- Cruiser es de 3 celdas
-- El destructor es de 2 celdas
+- Tienes 5 barcos:
+  1. Portaaviones: 5 celdas
+  2. Acorazado: 4 celdas
+  3. Submarino: 3 celdas
+  4. Crucero: 3 celdas
+  5. Destructor: 2 celdas
 
-En esta etapa, debes organizarlos todos en el campo de juego.
+### Instrucciones
 
-1.Empieza a colocar tus naves con la más grande.
-2.Para cada barco se leen dos coordinadas: el principio y el final del barco. De nuevo, el orden de las coordenadas no importa.
-3.Agregue nuevas naves a un campo de juego y genere de la misma manera que en la etapa anterior.
-4.Si el usuario ha introducido las coordinadas de tal manera que la eslora del barco creado no coincide con la longitud esperada, eso debe
-  considerarse una entrada incorrecta. Además, las reglas del juego establecen que los barcos no pueden estar adyacentes entre sí. En
-  ambos casos, repórtelo con un mensaje que contenga una palabra 'error'.
+Para lograr este objetivo, sigue estos pasos:
+
+1. Comienza colocando tus naves comenzando por el más grande.
+2. Para cada barco, se deben proporcionar dos coordenadas: el inicio y el final del barco. El orden de las coordenadas no importa.
+3. Agrega los barcos al campo de juego y genera de acuerdo con las reglas establecidas.
+4. Si las coordenadas introducidas no coinciden con la longitud esperada del barco o si los barcos están adyacentes entre sí, muestra un mensaje de error apropiado.
+
+### Ejemplo de Uso
+
+Aquí tienes un ejemplo de cómo podrías implementar esto en tu juego (pseudocódigo o código de ejemplo si es posible).
+
+### Notas Adicionales
+
+Añade cualquier otra información relevante sobre el juego, requisitos del sistema, créditos, etc.
